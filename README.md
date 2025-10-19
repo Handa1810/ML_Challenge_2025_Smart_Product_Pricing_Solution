@@ -152,6 +152,6 @@ Our **attention-gated multimodal model** effectively combines textual and visual
 ## 🌟 Team Contact
 
 **Algorithmic Minds**  
-- **Yash Handa** - [Github](https://github.com/Handa1810), [LinkedIn](www.linkedin.com/in/yashhanda18)
-- **Suhani Kumari** - [Github](https://github.com/Suhani), [LinkedIn](https://www.linkedin.com/in/suhani-kumari-2b3526306/)
-- **Vishakha Gupta** [Github](https://github.com/Vishakha), [LinkedIn](https://www.linkedin.com/in/vishakha-gupta-b34650266/)
+- **Yash Handa** - [GitHub](https://github.com/Handa1810), [LinkedIn](www.linkedin.com/in/yashhanda18)
+- **Suhani Kumari** - [GitHub](https://github.com/Suhani), [LinkedIn](https://www.linkedin.com/in/suhani-kumari-2b3526306/)
+- **Vishakha Gupta** [GitHub](https://github.com/Vishakha), [LinkedIn](https://www.linkedin.com/in/vishakha-gupta-b34650266/)
