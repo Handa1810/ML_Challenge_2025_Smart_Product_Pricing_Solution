@@ -12,6 +12,7 @@
 **Team Members:** Yash Handa, Suhani Kumari, Vishakha Gupta  
 **Submission Date:** 13/10/2025  
 
+![ML Challenge](images/ML%20challenge.jpg)
 ---
 
 ## 🏆 About the Challenge
@@ -85,9 +86,6 @@ Our model intelligently decides how much to rely on text versus images for each 
 
 5. **Fusion Network & Price Prediction:**  
    - Weighted embeddings concatenated and passed through a **MLP** for final price prediction.  
-
-**Figure: Model Architecture**  
-![Model Architecture](path_to_your_diagram.png)
 
 ---
 
